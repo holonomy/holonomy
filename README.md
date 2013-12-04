@@ -54,22 +54,20 @@ a holon is a node in a holarchy.
 #### production
 
 - produce with respect to the ecology
-
-#### sharing
-
 - share open source designs
-- share used products
 
 #### consumption
 
-- consume smart
-- 
+- share used products
+- consume sustainably
 
 #### references
 
 - ["Open Source Ecology paradigm" by Marcin Jakubowski](http://opensourceecology.org/wiki/Open_Source_Ecology_Paradigm)
 
-### 
+### cooperative economy
+
+### web payments
 
 ## user stories
 
