@@ -76,6 +76,7 @@ a holon is a node in a holarchy.
 
 ### web payments
 
+- use open standards for payment security
 - reduce friction of payments
 - pay across currencies
 
