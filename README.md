@@ -27,6 +27,10 @@ strategies:
 
 - choose among permissible choices of environment
 
+skills:
+
+- functional hierarchies of sub-holons governed by sub-rules
+
 ##### individual holons
 
 posesses a dominant monad. everything moves as one step.
@@ -53,8 +57,9 @@ a holon is a node in a holarchy.
 
 #### production
 
-- produce with respect to the ecology
-- share open source designs
+- respect the ecology
+- collaborate on open source designs
+- produce using open source documentation
 
 #### consumption
 
@@ -67,11 +72,42 @@ a holon is a node in a holarchy.
 
 ### cooperative economy
 
+- pool resources
+
 ### web payments
+
+- reduce friction of payments
+- pay across currencies
 
 ## user stories
 
 ### manufacturing
+
+#### food
+
+Alice is a farmer who grows food based on available land for farming, farming equipment, and preference.
+
+Bob is a truck driver who transports food based on truck capacity and preference.
+
+Carly is a home owner who stores food based on home capacity and preference.
+
+Dave is a chef who cooks meals based on available food, kitchen equipment, and preference.
+
+Eva is a bike rider who transports meals based on bike capacity and preference.
+
+Fred is a human who eats meals based on available food and preference.
+
+#### 3d printing, laser cutting, cnc milling, etc
+
+Alice is an workshop owner who produces products based on workshop space, workshop equipment, and preference
+
+Bob is a transporter who transports goods based on transport capacity and preference.
+
+Carly is a warehouse owner who stores products based on warehouse capacity and preference.
+
+Dave is an assembler who takes many raw products and creates processed products based on skill and preference.
+
+Fred is a consumer who consumes products based on available products and preference.
 
 ### maintenance
 
