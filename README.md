@@ -4,7 +4,7 @@
 
 define an economy by defining holonic market interactions through open source web apps
 
-## motivations
+## vision
 
 - holonism
 - open source economy
