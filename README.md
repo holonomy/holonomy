@@ -45,7 +45,7 @@ a holon is a node in a holarchy.
 
 #### references
 
-- ["Holon_(philosophy)"](http://en.wikipedia.org/wiki/Holon_(philosophy))
+- ["Holon_(philosophy)"](http://en.wikipedia.org/wiki/Holon_(philosophy\))
 - ["Some general properties of self-regulating open hierarchic order" by Arthur Koestler](http://www.panarchy.org/koestler/holon.1969.html)
 - ["Holarchies" by Flemming Funch](http://http://www.worldtrans.org/essay/holarchies.html)
 
@@ -63,6 +63,7 @@ a holon is a node in a holarchy.
 #### consumption
 
 - consume smart
+- 
 
 #### references
 
