@@ -1,15 +1,18 @@
 # holonomy
 
-### DESIGN PHASE
+redefine the economy by allowing people to self-organize into holonic systems through open source web apps
 
-define an economy by defining holonic market interactions through open source web apps
+- [vision](#vision)
+- [user stories](#user-stories)
+- [projects](#projects)
+- [space](#space)
 
 ## vision
 
-- holonism
-- open source economy
-- cooperative economy
-- web payments
+- [holonism](#holonism)
+- [open source economy](#open-source-economy)
+- [cooperative economy](#cooperative-economy)
+- [web payments](#web-payments)
 
 ### holonism
 
@@ -112,16 +115,15 @@ Fred is a consumer who consumes products based on available products and prefere
 
 ### maintenance
 
-## design
+## projects
 
-- software should be used by every holon so that each individual holon would want to work to advance all holons
-- bottom-up voting
-- top-down decision-making
-
-## stack
-
-- node.js
-- json-ld
+- [identity](https://github.com/holonomy/id)
+- [tasks](https://github.com/holonomy/tasks)
+- voting
+- communication
+- buying
+- selling
+- inventory / sharing
 
 ## space
 
