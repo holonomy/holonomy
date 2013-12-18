@@ -115,6 +115,14 @@ Fred is a consumer who consumes products based on available products and prefere
 
 ### maintenance
 
+### open source software project
+
+["Producing OSS"](http://producingoss.com/)
+
+### hackerspaces
+
+[hackerspaces.org documentation](http://hackerspaces.org/wiki/Documentation)
+
 ## projects
 
 - [identity](https://github.com/holonomy/id)
