@@ -127,7 +127,7 @@ Fred is a consumer who consumes products based on available products and prefere
 
 - [identity](https://github.com/holonomy/id)
 - [tasks](https://github.com/holonomy/tasks)
-- voting
+- [control](https://github.com/holonomy/control)
 - communication
 - buying
 - selling
