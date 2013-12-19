@@ -1,6 +1,8 @@
 # holonomy
 
-redefine the economy by allowing people to self-organize into holonic systems through open source web apps
+> NOTE: please use holonomy as a brain dump of relevant information, arguments in favor, criticisms against, user stories, etc. we can sort info as we gather it.
+
+holonomy is a project to redefine the economy by allowing people to self-organize into holonic systems through open source web apps
 
 - [vision](#vision)
 - [user stories](#user-stories)
