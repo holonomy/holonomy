@@ -1,6 +1,6 @@
 # holonomy
 
-> NOTE: please use holonomy as a brain dump of relevant information, arguments in favor, criticisms against, user stories, etc. we can sort info as we gather it.
+> NOTE: please use holonomy as a brain dump of relevant information, arguments in favor, criticisms against, user stories, etc. we can sort info as we gather it. if you want collaborator access, message @ahdinosaur.
 
 holonomy is a project to redefine the economy by allowing people to self-organize into holonic systems through open source web apps
 
